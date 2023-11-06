@@ -15,7 +15,7 @@ class TestViewController: UIViewController {
         view.backgroundColor = .white
                 
 //        createData()
-        deleteData()
+//        deleteData()
         retrieveData()
 //        updateData()
     }
